@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BurgerDonalds</string>
+    <string name="saudacao">Bem vindo ao Burger Donalds!</string>
+    <string name="btnPedido">Fazer Pedido</string>
+    <string name="btnHoras">Consultar Horas</string>
+    <string name="btnMensagem">Falar com a cozinha</string>
+    <string name="btnGerenciarHoras">Gerenciar Horas</string>
+    <string name="messageBoxHint">Digite sua mensagem</string>
+    <string name="enviar">Enviar mensagem</string>
+    <string name="retornar">Retornar ao Menu</string>
+    <string name="titulo">Burger Donalds © 2020</string>
+    <string name="expIniciar">Iniciar Expediente</string>
+    <string name="expPausar">Pausar Expediente</string>
+    <string name="expEnviar">Enviar horas trabalhadas</string>
+    <string name="gerenciarHoras">Gerenciar Horas</string>
+    <string name="genericImageDescription">Logo</string>
+</resources>
